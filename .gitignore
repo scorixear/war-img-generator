@@ -1,0 +1,22 @@
+# Gradle build results, gradle cache
+/build/
+/.gradle/
+
+# Ignore top level log files and directories
+*.log
+/logs/
+
+# IntelliJ specific files
+/.idea/
+*.iml
+*.stackdump
+/out/
+
+# Eclipse specific files
+/bin/
+/.settings/
+.classpath
+.project
+
+# Spring Application Properties
+/src/main/resources/backupapplication.properties
